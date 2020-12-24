@@ -32,7 +32,7 @@ namespace WindowsFormsApp1
             {
                 int i3 = (int)Convert.ToChar(inputan.Text[i]);
                 int total = i3 + pengubah;
-                
+                // hai
                 char c = (char)total;
                 //string jadi = new string(c);
                 hasil.Text += c.ToString();
